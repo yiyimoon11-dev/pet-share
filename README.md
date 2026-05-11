@@ -2,6 +2,8 @@
 
 codex宠物分享。
 
+![Leo preview](./assets/leo-preview.png)
+
 ## Included pets
 
 - `Leo`: a custom Codex desktop pet
