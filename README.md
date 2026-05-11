@@ -2,7 +2,7 @@
 
 codex宠物分享。
 
-![Leo preview](./assets/leo-preview.png)
+![Leo preview](./leo-preview.png)
 
 ## Included pets
 
